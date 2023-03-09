@@ -11,10 +11,16 @@
             "name": "DevDrawer"
         }
     ],
-    "minimum-stability": "dev-master@dev",
+    "minimum-stability": "dev",
     "require": {
         "php": "^8.0"
     },
+    "repositories": [
+        {
+        "type": "vcs",
+        "url": "https://github.com/thedevdrawer/create-composer" 
+        }
+    ],
     "autoload": {
         "psr-4": {
             "DevDrawer\\Tutorial\\": "src/"

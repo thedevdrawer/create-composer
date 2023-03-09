@@ -11,7 +11,7 @@
             "name": "DevDrawer"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev-master@dev",
     "require": {
         "php": "^8.0"
     },

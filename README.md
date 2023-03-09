@@ -15,6 +15,6 @@ Add the following code to your php file and you should see the ClassName output 
 
 require_once 'vendor/autoload.php';
 
-$testClass = new \DevDrawer\Tutorial\ClassName();
+new \DevDrawer\Tutorial\ClassName();
 
 ```

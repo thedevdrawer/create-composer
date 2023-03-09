@@ -5,3 +5,16 @@ Learn how to create your own composer project to quickly reuse or release your c
 ## License
 
 [OSL - Open Software Licence 3.0](http://opensource.org/licenses/osl-3.0.php)
+
+## Sample Code
+
+Add the following code to your php file and you should see the ClassName output of "Hello World".
+
+```php
+<?php
+
+require_once 'vendor/autoload.php';
+
+$testClass = new \DevDrawer\Tutorial\ClassName();
+
+```

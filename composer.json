@@ -2,6 +2,10 @@
     "name": "devdrawer/tutorial",
     "description": "This is a sample composer package tutorial.",
     "type": "project",
+    "homepage": "https://devdrawer.com",
+    "license": [
+        "OSL-3.0"
+    ],
     "authors": [
         {
             "name": "DevDrawer"

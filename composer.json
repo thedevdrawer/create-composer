@@ -1,0 +1,19 @@
+{
+    "name": "devdrawer/tutorial",
+    "description": "This is a sample composer package tutorial.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DevDrawer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DevDrawer\\Tutorial\\": "src/"
+        }
+    }
+}

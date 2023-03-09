@@ -22,5 +22,5 @@ new \DevDrawer\Tutorial\ClassName();
 To run your tests, make sure you have phpunit installed or run composer install. I have added a composer phpunit to this project so you can test it with only these files.
 
 ```
-php vendor/phpunit/phpunitphpunit tests/ClassNameTest.php
+php vendor/phpunit/phpunit/phpunit tests/ClassNameTest.php
 ```
